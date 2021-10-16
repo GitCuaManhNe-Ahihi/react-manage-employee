@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Hoàng văn Mạnh",
+        "tel":"0335872719",
+        "authority":1
+    },
+    {
+        "id":2,
+        "name":"Hoàng văn Quân",
+        "tel":"0335872719",
+        "authority":0
+    },
+    {
+        "id":3,
+        "name":"Hoàng văn Tấn",
+        "tel":"0335872719",
+        "authority":0
+    },
+    {
+        "id":4,
+        "name":"Hoàng Thượng",
+        "tel":"0335872719",
+        "authority":0
+    }
+]
